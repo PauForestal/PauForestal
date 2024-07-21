@@ -1,12 +1,12 @@
-## HI!! 
+## HI, welcome to my Github profile!! 
 
 ### If you've come this far it's because you find me interesting... at least that's what I'm looking for.
 
 I am **Paula Vallejo**, Engineer, Python Programmer, Data Scientist and Backend Developer. I'm deeply passionate about open source resources, working directly with Linux and everything related to old school programming. 
 
-Finally, I'm convinced that the biggest challenge is not programming but learning to read the documentation. There is the lamb's mother!
+Finally, I'm convinced that the biggest challenge is not programming but learning to read/write the **DOCUMENTATION OF EVERYTHING**! 😵‍💫
 
-I love being constantly learning, both in programming and in life itself!
+I 💜love💜 being constantly learning, both in programming and in life itself!
 
 ### Programming Languages
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=) ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
